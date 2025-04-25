@@ -58,6 +58,9 @@ Fora do código, gosto de conversar, assistir filmes/séries e jogar bastante �
 ## 📈 Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarmeireles&show_icons=true&count_private=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarmeireles&layout=compact)
+
+
 
 ## 🔥 Projetos em Destaque
 - [Av1ArquiteturaWeb](https://github.com/ScarMeireles/Av1ArquiteturaWeb) - Integração de uma API em Java conectando no MariaDB utilizando XAMPP.
