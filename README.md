@@ -1,11 +1,21 @@
-# Olá, eu sou Arthur Meireles 👋
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Júnior apaixonado por Tecnologias, sempre em busca de novos desafios e aprendizados!
+* Me chamo Arthur Meireles, estudante de Sistemas de Informação e apaixonado por programação.
+* Moro em Belo Horizonte, Minas Gerais, Brasil.
+* Gosto de aprender colocando a mão na massa: seja desenvolvendo APIs, criando interfaces ou encarando desafios técnicos que me tiram da zona de conforto.
 
-## 🚀 Sobre Mim
+Aqui no meu perfil você vai encontrar minha trajetória, projetos pessoais e tudo que venho explorando ao longo da minha jornada como desenvolvedor.
+
 - 💻 Atualmente estou trabalhando com Trainee na Who. Antifraud.
 - 🌱 Estudando Sistemas de informação no  Instituto Cultural Newton Paiva.
 - 🔗 Meu portfólio: https://github.com/ScarMeireles
+- 📚 Atualmente estudando: Spring Boot, REACT Native para aplicações mobile,Python, IA's e boas práticas de arquitetura.
+- 🚀 Projetos recentes: sistema de controle de semáforo inteligente usando sensores e arduínos.
+- 🎯 Objetivo: me tornar um desenvolvedor fullstack e chegar aonde a vida permitir.
+
+Fora do código, gosto de conversar, assistir filmes/séries e jogar bastante 🎮
+
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
