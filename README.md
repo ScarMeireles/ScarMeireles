@@ -11,7 +11,8 @@ Desenvolvedor Júnior apaixonado por Tecnologias, sempre em busca de novos desaf
 Java, C, HTML/CSS/JavaScript, REACT, SQL
 
 ## 📈 Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarmeireles&show_icons=true&count_private=true&theme=radical)
+
 
 ## 🔥 Projetos em Destaque
 - [Av1ArquiteturaWeb]([link](https://github.com/ScarMeireles/Av1ArquiteturaWeb)) - Integração de uma API em Java conectando no MariaDB utilizando XAMPP.
