@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Arthur Meireles 👋
 
-<!--
-**ScarMeireles/ScarMeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Júnior apaixonado por Tecnologias, sempre em busca de novos desafios e aprendizados!
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 💻 Atualmente estou trabalhando com Trainee na Who. Antifraud.
+- 🌱 Estudando Sistemas de informação no  Instituto Cultural Newton Paiva.
+- 🔗 Meu portfólio: https://github.com/ScarMeireles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+Java, C, HTML/CSS/JavaScript, REACT, SQL
+
+## 📈 Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&theme=radical)
+
+## 🔥 Projetos em Destaque
+- [Av1ArquiteturaWeb]([link](https://github.com/ScarMeireles/Av1ArquiteturaWeb)) - Integração de uma API em Java conectando no MariaDB utilizando XAMPP.
+- [MontyHall]([link](https://github.com/ScarMeireles/MontyHall)) - Solução para o Jogo Monty Hall.
+- [Exercicios-ADMBD-II]([link]https://github.com/ScarMeireles/Exercicios-ADMBD-II) - Exercícios de Administração de Banco de Dados (Views, Functions, Procedures, Triggers).
+- [ExerciciosEstruturaDeDados ]([link]https://github.com/ScarMeireles/ExerciciosEstruturaDeDados) - Exercícios de Estrutura de Dados.
