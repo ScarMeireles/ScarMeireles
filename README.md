@@ -7,9 +7,9 @@
 Aqui no meu perfil você vai encontrar minha trajetória, projetos pessoais e tudo que venho explorando ao longo da minha jornada como desenvolvedor.
 
 - 💻 Atualmente estou trabalhando com Trainee na Who. Antifraud.
-- 🌱 Estudando Sistemas de informação no  Instituto Cultural Newton Paiva.
+- 🌱 Estudando Sistemas de informação no Instituto Cultural Newton Paiva.
 - 🔗 Meu portfólio: https://github.com/ScarMeireles
-- 📚 Atualmente estudando: Spring Boot, REACT Native para aplicações mobile,Python, IA's e boas práticas de arquitetura.
+- 📚 Atualmente estudando: Spring Boot, REACT Native para aplicações mobile, Python, IA's e boas práticas de arquitetura.
 - 🚀 Projetos recentes: sistema de controle de semáforo inteligente usando sensores e arduínos.
 - 🎯 Objetivo: me tornar um desenvolvedor fullstack e chegar aonde a vida permitir.
 
