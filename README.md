@@ -83,6 +83,7 @@ Fora do código, gosto de conversar, assistir filmes/séries e jogar bastante �
 
 ## 🔥 Projetos em Destaque
 - [Av1ArquiteturaWeb](https://github.com/ScarMeireles/Av1ArquiteturaWeb) - Integração de uma API em Java conectando no MariaDB utilizando XAMPP.
+- [CSharpWebApi](https://github.com/ScarMeireles/CSharpWebApi) - Integração de uma API em C# conectando no MongoDB utilizando Swagger.
 - [MontyHall](https://github.com/ScarMeireles/MontyHall) - Solução para o Jogo Monty Hall.
 - [Exercicios-ADMBD-II](https://github.com/ScarMeireles/Exercicios-ADMBD-II) - Exercícios de Administração de Banco de Dados (Views, Functions, Procedures, Triggers).
 - [ExerciciosEstruturaDeDados](https://github.com/ScarMeireles/ExerciciosEstruturaDeDados) - Exercícios de Estrutura de Dados.
