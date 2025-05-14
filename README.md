@@ -10,6 +10,7 @@ Aqui no meu perfil você vai encontrar minha trajetória, projetos pessoais e tu
 - 🌱 Estudando Sistemas de informação no Instituto Cultural Newton Paiva.
 - 🔗 Meu portfólio: https://github.com/ScarMeireles
 - 📚 Atualmente estudando: Spring Boot, REACT Native para aplicações mobile, Python, IA's e boas práticas de arquitetura.
+- 📚 Estudando também C# e Angular para desvolvimento profissional.
 - 🚀 Projetos recentes: sistema de controle de semáforo inteligente usando sensores e arduínos.
 - 🎯 Objetivo: me tornar um desenvolvedor fullstack e chegar aonde a vida permitir.
 
